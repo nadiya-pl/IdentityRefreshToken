@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frontend", "Frontend\Fronte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProtectedAPI", "ProtectedAPI\ProtectedAPI.csproj", "{BF46407E-6BA8-477D-8371-2A9E6321A94D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{445ED12C-0677-4751-880B-0BFB8DFFC7C4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B570A65-ADB2-4188-958F-550B215534D6}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Downloads\README.md = ..\..\..\..\Downloads\README.md
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
