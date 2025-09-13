@@ -1,0 +1,13 @@
+﻿@model string
+
+@{
+    ViewData["Title"] = "Protected Page";
+}
+
+<div class="text-center mt-5">
+    <h2 class="text-success">🔐 Protected Resource</h2>
+    <p class="fs-4">Access granted. You are authorized.</p>
+    <div class="alert alert-info mt-4">
+        <strong>@Model</strong>
+    </div>
+</div>
